@@ -1,10 +1,10 @@
 # Brizhevskaya Diana
 
 ## Contacts
-- Location: Minsk, Belarus
-- Phone: +375 (33) 689-40-75
-- E-mail: dianabrizh@gmail.com
-- GitHub: [brizhd](https://github.com/brizhd)
+- **Location:** Minsk, Belarus
+- **Phone:** +375 (33) 689-40-75
+- **E-mail:** dianabrizh@gmail.com
+- **GitHub:** [brizhd](https://github.com/brizhd)
 
 ## About me
 My goal is to become a good and demanded developer. I am capale of self-education and love to do it, because I want to always develop new skills. I am attentive to details and I am an excellent team worker!
